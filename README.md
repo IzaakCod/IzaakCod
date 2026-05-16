@@ -61,3 +61,13 @@ Tenho interesse em criar **interfaces simples, funcionais e organizadas**, busca
 </a>
 
 </div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/IzaakCod/IzaakCod/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
