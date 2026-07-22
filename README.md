@@ -3,7 +3,7 @@
 <h3 align="center">💻 Desenvolvedor em formação | Front-end</h3>
 
 <p align="center">
-Apaixonado por tecnologia, programação e aprendizado constante 🚀
+Apaixonado por tecnologia e programação 💻
 </p>
 
 ---
