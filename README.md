@@ -378,7 +378,7 @@ function developerLife() {
 ║                                                          ║
 ║       LEARNING  •  BUILDING  •  EVOLVING                 ║
 ║                                                          ║
-║                STATUS: ACTIVE 🚀                          ║
+║                STATUS: ACTIVE 🚀                        ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
