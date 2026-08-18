@@ -205,7 +205,7 @@ while(alive){
 ║                  CURRENT LEARNING PATH                     ║
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
-║  01. Programming Logic                                    ║
+║  01. Programming Logic                                     ║
 ║  02. HTML & CSS                                            ║
 ║  03. JavaScript                                            ║
 ║  04. TypeScript                                            ║
@@ -332,15 +332,9 @@ Repositório com exercícios e projetos desenvolvidos durante meus estudos de Ja
 
 <div align="center">
 
-<a href="https://github.com/IzaakCod" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/izaak-nascimento-78678040a" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
-</a>
+<a href="https://github.com/IzaakCod" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/izaak-nascimento-78678040a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/izaaksntts/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="55" alt="Instagram"/></a>
 
 </div>
 
