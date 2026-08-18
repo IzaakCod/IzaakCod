@@ -333,15 +333,13 @@ Repositório com exercícios e projetos desenvolvidos durante meus estudos de Ja
 <div align="center">
 
 <a href="https://github.com/IzaakCod" target="_blank">
-
-
+<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
 </a>
 
-  
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/izaak-nascimento-78678040a" target="_blank">
-
-
+<img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
 </a>
 
 </div>
