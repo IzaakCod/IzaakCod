@@ -2,9 +2,9 @@
 
 # 🤖 S Y S T E M ・ O N L I N E
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+IZAAK%27S+GITHUB;LOADING+WEB+DEVELOPMENT+MODULES;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+IZAAK%27S+GITHUB;LOADING+WEB+DEVELOPMENT+MODULES;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing Animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:8B5CF6,100:00E5FF&text=DEVELOPER%20CORE&fontAlign=50&fontAlignY=42&fontSize=50&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:2563EB,100:00E5FF&text=DEVELOPER%20CORE&fontAlign=50&fontAlignY=42&fontSize=50&fontColor=ffffff" width="100%"/>
 
 </div>
 
@@ -131,7 +131,7 @@ KEEP BUILDING
 KEEP IMPROVING 🚀
 ```
 
-> Os percentuais acima representam **níveis aproximados de foco/estudo**, e não uma certificação de domínio.
+> Os percentuais representam níveis aproximados de foco e estudo, não certificações de domínio.
 
 ---
 
@@ -244,7 +244,7 @@ Projeto web desenvolvido como projeto acadêmico, trabalhando estrutura de pági
 
 <a href="https://github.com/IzaakCod/FitLife">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IzaakCod&repo=FitLife&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IzaakCod&repo=FitLife&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=2563EB&text_color=FFFFFF"/>
 
 </a>
 
@@ -264,7 +264,7 @@ Repositório com exercícios e projetos desenvolvidos durante meus estudos de Ja
 
 <a href="https://github.com/IzaakCod">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IzaakCod&repo=CursoJSTypeScript&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IzaakCod&repo=CursoJSTypeScript&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=2563EB&text_color=FFFFFF"/>
 
 </a>
 
@@ -282,9 +282,9 @@ Repositório com exercícios e projetos desenvolvidos durante meus estudos de Ja
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IzaakCod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IzaakCod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaakCod&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaakCod&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF"/>
 
 </div>
 
@@ -292,7 +292,7 @@ Repositório com exercícios e projetos desenvolvidos durante meus estudos de Ja
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=IzaakCod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=00E5FF&currStreakLabel=8B5CF6"/>
+<img src="https://streak-stats.demolab.com?user=IzaakCod&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=2563EB&currStreakLabel=00E5FF"/>
 
 </div>
 
@@ -302,7 +302,7 @@ Repositório com exercícios e projetos desenvolvidos durante meus estudos de Ja
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IzaakCod&theme=tokyo-night&hide_border=true&area=true&custom_title=IZAAK%20SANTOS%20%E2%80%A2%20CONTRIBUTION%20ACTIVITY" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IzaakCod&theme=tokyo-night&hide_border=true&area=true&color=00E5FF&line=2563EB&point=FFFFFF&custom_title=IZAAK%20SANTOS%20%E2%80%A2%20CONTRIBUTION%20ACTIVITY" width="95%"/>
 
 </div>
 
@@ -328,19 +328,21 @@ Repositório com exercícios e projetos desenvolvidos durante meus estudos de Ja
 
 ---
 
-# 🌎 Connect With Me
+# 🔗 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/IzaakCod">
+<a href="https://github.com/IzaakCod" target="_blank">
 
-<img src="https://img.shields.io/badge/GitHub-IzaakCod-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GitHub-IzaakCod-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=2563EB"/>
 
 </a>
 
-<a href="https://www.linkedin.com/in/izaak-nascimento-78678040a">
+  
 
-<img src="https://img.shields.io/badge/LinkedIn-Izaak%20Santos-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<a href="https://www.linkedin.com/in/izaak-nascimento-78678040a" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-Izaak%20Santos-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=2563EB"/>
 
 </a>
 
@@ -380,21 +382,21 @@ function developerLife() {
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║                 IZAAK SANTOS                            ║
+║                 IZAAK SANTOS                             ║
 ║                                                          ║
-║              DEVELOPER SYSTEM ONLINE                    ║
+║              DEVELOPER SYSTEM ONLINE                     ║
 ║                                                          ║
-║       LEARNING  •  BUILDING  •  EVOLVING                ║
+║       LEARNING  •  BUILDING  •  EVOLVING                 ║
 ║                                                          ║
-║                STATUS: ACTIVE 🚀                         ║
+║                STATUS: ACTIVE 🚀                          ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING+MY+PROFILE;KEEP+LEARNING+%7C+KEEP+BUILDING+%7C+KEEP+EVOLVING;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%9A%80" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING+MY+PROFILE;KEEP+LEARNING+%7C+KEEP+BUILDING+%7C+KEEP+EVOLVING;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%9A%80" alt="Footer Animation"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,40:8B5CF6,100:00E5FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,40:2563EB,100:00E5FF" width="100%"/>
 
 </div>
