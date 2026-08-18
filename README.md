@@ -107,22 +107,22 @@ const Developer = {
 > Initializing objectives...
 
 HTML & CSS
-████████████████████ 100%
+█████████░░░░░░░░░░░ 45%
 
 JavaScript
-█████████████████░░░ 85%
+████████░░░░░░░░░░░░ 40%
 
 TypeScript
-██████████████░░░░░░ 70%
+██████░░░░░░░░░░░░░░ 30%
 
 Node.js
-███████████░░░░░░░░░ 55%
+█████░░░░░░░░░░░░░░░ 25%
 
 Git & GitHub
-████████████████░░░░ 80%
+█████████░░░░░░░░░░░ 45%
 
 Object-Oriented Programming
-██████████████░░░░░░ 70%
+██████░░░░░░░░░░░░░░ 30%
 
 Status:
 
@@ -334,7 +334,6 @@ Repositório com exercícios e projetos desenvolvidos durante meus estudos de Ja
 
 <a href="https://github.com/IzaakCod" target="_blank">
 
-<img src="https://img.shields.io/badge/GitHub-IzaakCod-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=2563EB"/>
 
 </a>
 
@@ -342,7 +341,6 @@ Repositório com exercícios e projetos desenvolvidos durante meus estudos de Ja
 
 <a href="https://www.linkedin.com/in/izaak-nascimento-78678040a" target="_blank">
 
-<img src="https://img.shields.io/badge/LinkedIn-Izaak%20Santos-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=2563EB"/>
 
 </a>
 
