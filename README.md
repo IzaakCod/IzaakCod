@@ -1,261 +1,290 @@
-<!-- ========================================================= -->
-
-<!--                 IZAAK SANTOS • GITHUB                     -->
-
-<!--             JARVIS / CYBERPUNK INTERFACE                  -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=IZAAK%20SANTOS%20%E2%80%A2%20DEVELOPER%20PROFILE&descAlignY=55&descSize=18&color=0:050816,50:0A0F2C,100:111827" width="100%"/>
+# 🤖 S Y S T E M ・ O N L I N E
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+IZAAK%27S+GITHUB;LOADING+WEB+DEVELOPMENT+MODULES;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing Animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Initializing+Developer+Profile...;Loading+Izaak+Santos+System...;Front-end+Developer+in+Formation;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Node.js+%7C+Git+%7C+GitHub;System+Status%3A+ONLINE+%E2%9C%93" alt="Typing Animation"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=IzaakCod&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/IzaakCod?label=FOLLOWERS&style=for-the-badge&color=111827&labelColor=050816" alt="Followers"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:8B5CF6,100:00E5FF&text=DEVELOPER%20CORE&fontAlign=50&fontAlignY=42&fontSize=50&fontColor=ffffff" width="100%"/>
 
 </div>
 
 ---
 
-# `> SYSTEM.IDENTITY`
+# 💻 AI TERMINAL
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE                         ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NAME       :: Izaak Santos                                  ║
-║  ROLE       :: Front-end Developer in Formation               ║
-║  FOCUS      :: Web Development                                ║
-║                                                              ║
-║  STACK      :: HTML • CSS • JavaScript                        ║
-║               TypeScript • Node.js                            ║
-║                                                              ║
-║  TOOLS      :: Git • GitHub • VS Code                         ║
-║                                                              ║
-║  STATUS     :: LEARNING                                      ║
-║  MODE       :: BUILDING                                      ║
-║  MISSION    :: TURNING IDEAS INTO CODE                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+```bash
+╔════════════════════════════════════════════════════════════╗
+║                  DEVELOPER CORE v1.0                       ║
+╚════════════════════════════════════════════════════════════╝
+
+Loading modules...
+
+██████████████████████████████ 100%
+
+✔ Developer Profile Loaded
+✔ Frontend Module Loaded
+✔ JavaScript Module Loaded
+✔ TypeScript Module Loaded
+✔ Node.js Module Loaded
+✔ Git & GitHub Connected
+✔ Projects Loaded
+
+STATUS: ONLINE 🚀
 ```
 
 ---
 
-# `> ABOUT_ME.exe`
+# 👨‍💻 About Me
+
+```javascript
+const Developer = {
+
+    name: "Izaak Santos",
+
+    username: "IzaakCod",
+
+    role: "Front-end Developer in Formation",
+
+    country: "Brazil 🇧🇷",
+
+    focus: [
+        "Frontend Development",
+        "Web Development",
+        "JavaScript",
+        "TypeScript",
+        "Node.js"
+    ],
+
+    currentlyLearning: [
+        "TypeScript",
+        "Node.js",
+        "Object-Oriented Programming",
+        "Web Development",
+        "Programming Logic"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "NPM"
+    ],
+
+    lifeGoal:
+        "Transform knowledge into real projects and keep evolving as a developer."
+}
+```
+
+---
+
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+Hello%2C+World!;%3E+I%27m+Izaak+Santos;%3E+Front-end+Developer+in+formation;%3E+Always+learning...;%3E+Always+building..." alt="About Me Animation"/>
+### Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
+
+<br><br>
+
+### Back-End
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
 
 </div>
 
-Sou um **desenvolvedor em formação**, curioso por natureza e sempre buscando aprender algo novo.
+---
 
-Atualmente estou focado em **desenvolvimento web**, estudando e evoluindo minhas habilidades com **HTML, CSS, JavaScript, TypeScript e Node.js**.
-
-Gosto de colocar a mão no código e entender como as coisas funcionam na prática, transformando aprendizado em projetos reais.
-
-Acredito que evolução vem com **consistência, prática e persistência**.
-
-Tenho interesse em criar **interfaces simples, funcionais e organizadas**, buscando sempre melhorar a experiência do usuário e escrever um código cada vez melhor.
+# 🚀 Current Mission
 
 ```bash
+> Initializing objectives...
+
+HTML & CSS
+████████████████████ 100%
+
+JavaScript
+█████████████████░░░ 85%
+
+TypeScript
+██████████████░░░░░░ 70%
+
+Node.js
+███████████░░░░░░░░░ 55%
+
+Git & GitHub
+████████████████░░░░ 80%
+
+Object-Oriented Programming
+██████████████░░░░░░ 70%
+
+Status:
+
+KEEP LEARNING
+KEEP BUILDING
+KEEP IMPROVING 🚀
+```
+
+> Os percentuais acima representam **níveis aproximados de foco/estudo**, e não uma certificação de domínio.
+
+---
+
+# 🛰 Developer Console
+
+```console
 $ whoami
 
 Izaak Santos
 
+$ username
+
+IzaakCod
+
+$ profession
+
+Front-end Developer in Formation
+
+$ editor
+
+Visual Studio Code
+
+$ main_stack
+
+HTML • CSS • JavaScript • TypeScript
+
+$ backend
+
+Node.js
+
+$ version_control
+
+Git + GitHub
+
 $ current_focus
 
-Frontend Development
+Building Web Projects
 
-$ philosophy
+$ programming_concept
 
-Learn → Build → Improve → Repeat
+Object-Oriented Programming
 
-$ status
+$ motivation
 
-DEVELOPMENT_MODE=true
-LEARNING_MODE=true
-CREATIVE_MODE=true
+while(alive){
+    learn();
+    build();
+    improve();
+}
 ```
 
 ---
 
-# `> TECH_STACK`
+# 🛠 Skills
 
-<div align="center">
-
-### `FRONTEND`
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="HTML5"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="CSS3"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="JavaScript"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="65" alt="TypeScript"/>
-
-<br><br>
-
-### `BACKEND`
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" alt="Node.js"/>
-
-<br><br>
-
-### `TOOLS`
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code"/>
-
-</div>
+| Category        | Technologies                           |
+| --------------- | -------------------------------------- |
+| Frontend        | HTML • CSS • JavaScript • TypeScript   |
+| Backend         | Node.js                                |
+| Programming     | JavaScript • TypeScript • POO • Logic  |
+| Version Control | Git • GitHub                           |
+| Development     | VS Code • NPM                          |
+| Current Focus   | Web Development • TypeScript • Node.js |
 
 ---
 
-# `> TECHNOLOGY_MATRIX`
-
-<div align="center">
-
-|          Área          | Tecnologias                 |
-| :--------------------: | :-------------------------- |
-|     💻 **Frontend**    | HTML5 • CSS3 • JavaScript   |
-|   🧠 **Programming**   | JavaScript • TypeScript     |
-|     ⚙️ **Backend**     | Node.js                     |
-| 🔧 **Version Control** | Git • GitHub                |
-|   🛠️ **Development**  | VS Code • NPM               |
-|     🧩 **Concepts**    | POO • Lógica de Programação |
-
-</div>
-
----
-
-# `> DEVELOPMENT_TOOLS`
+# 📚 Learning Protocol
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    DEVELOPMENT ENVIRONMENT                   │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  EDITOR          :: Visual Studio Code                       │
-│  VERSION CONTROL :: Git                                      │
-│  REPOSITORIES    :: GitHub                                   │
-│  RUNTIME         :: Node.js                                  │
-│  PACKAGE MANAGER :: NPM                                      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                  CURRENT LEARNING PATH                     ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  01. Programming Logic                                    ║
+║  02. HTML & CSS                                            ║
+║  03. JavaScript                                            ║
+║  04. TypeScript                                            ║
+║  05. Object-Oriented Programming                           ║
+║  06. Node.js                                               ║
+║  07. Git & GitHub                                          ║
+║  08. Building Real Projects                                ║
+║                                                            ║
+║                    ↓                                       ║
+║              KEEP EVOLVING                                 ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,npm" />
-
-</div>
 
 ---
 
-# `> FEATURED_PROJECTS`
+# 🌟 Featured Projects
 
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ FitLife</h3>
+### ⚡ FitLife
 
-<div align="center">
+Projeto web desenvolvido como projeto acadêmico, trabalhando estrutura de páginas, HTML, CSS e JavaScript.
 
-<a href="https://github.com/IzaakCod/FitLife">
+**Stack:**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IzaakCod&repo=FitLife&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
-
-</a>
+`HTML` `CSS` `JavaScript`
 
 <br>
 
-<p>
-Projeto web desenvolvido com foco em organização de conteúdo relacionado a treinos, alimentação e experiência do usuário.
-</p>
+<a href="https://github.com/IzaakCod/FitLife">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IzaakCod&repo=FitLife&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF"/>
+
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">💻 Curso JavaScript / TypeScript</h3>
+### 💻 Curso JavaScript / TypeScript
 
-<div align="center">
+Repositório com exercícios e projetos desenvolvidos durante meus estudos de JavaScript, TypeScript, Node.js e POO.
 
-<a href="https://github.com/IzaakCod">
+**Stack:**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IzaakCod&repo=CursoJSTypeScript&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
-
-</a>
+`JavaScript` `TypeScript` `Node.js`
 
 <br>
 
-<p>
-Projetos e exercícios desenvolvidos durante os estudos de JavaScript, TypeScript, Node.js e Programação Orientada a Objetos.
-</p>
+<a href="https://github.com/IzaakCod">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IzaakCod&repo=CursoJSTypeScript&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF"/>
+
+</a>
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# `> CURRENT_OBJECTIVES`
-
-```console
-┌──[IZAAK@DEVELOPMENT]─[~/objectives]
-└─$ cat goals.txt
-
-[✓] Aprender HTML & CSS
-[✓] Desenvolver projetos com JavaScript
-[✓] Aprender TypeScript
-[✓] Trabalhar com Git & GitHub
-[✓] Estudar Programação Orientada a Objetos
-
-[>] Aprofundar conhecimentos em Node.js
-[>] Criar projetos cada vez mais completos
-[>] Melhorar organização e qualidade do código
-[>] Evoluir como desenvolvedor
-
-[∞] KEEP LEARNING
-[∞] KEEP BUILDING
-[∞] KEEP EVOLVING
-
-┌──[IZAAK@DEVELOPMENT]─[~/objectives]
-└─$ _
-```
-
----
-
-# `> GITHUB_ANALYTICS`
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzaakCod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IzaakCod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaakCod&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaakCod&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -263,59 +292,55 @@ Projetos e exercícios desenvolvidos durante os estudos de JavaScript, TypeScrip
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=IzaakCod&theme=tokyonight&hide_border=true&background=050816&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=IzaakCod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=00E5FF&currStreakLabel=8B5CF6"/>
 
 </div>
 
 ---
 
-# `> CONTRIBUTION_ACTIVITY`
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IzaakCod&bg_color=050816&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=IZAAK%20SANTOS%20%E2%80%A2%20CONTRIBUTION%20ACTIVITY" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IzaakCod&theme=tokyo-night&hide_border=true&area=true&custom_title=IZAAK%20SANTOS%20%E2%80%A2%20CONTRIBUTION%20ACTIVITY" width="95%"/>
 
 </div>
 
 ---
 
-# `> TROPHY_ROOM`
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IzaakCod&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=IzaakCod&theme=tokyonight&margin-w=15&no-frame=true&column=4"/>
 
 </div>
 
 ---
 
-# `> CONTRIBUTION_PROTOCOL`
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/IzaakCod/IzaakCod/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="90%"/>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Tracking+contributions...;Analyzing+commit+activity...;System+evolution+in+progress..." alt="Contribution Animation"/>
-
 </div>
 
 ---
 
-# `> SOCIAL_NETWORK`
+# 🌎 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/IzaakCod" target="_blank">
+<a href="https://github.com/IzaakCod">
 
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GitHub-IzaakCod-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 
 </a>
 
-<a href="https://www.linkedin.com/in/izaak-nascimento-78678040a" target="_blank">
+<a href="https://www.linkedin.com/in/izaak-nascimento-78678040a">
 
-<img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-Izaak%20Santos-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 
 </a>
 
@@ -323,28 +348,53 @@ Projetos e exercícios desenvolvidos durante os estudos de JavaScript, TypeScrip
 
 ---
 
-# `> SYSTEM_MESSAGE`
+# 🧠 Developer Philosophy
+
+```javascript
+function developerLife() {
+
+    while (true) {
+
+        learn();
+
+        practice();
+
+        build();
+
+        makeMistakes();
+
+        solveProblems();
+
+        improve();
+
+    }
+}
+```
+
+---
 
 <div align="center">
+
+# 🤖 SYSTEM STATUS
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║       "Every line of code is another step forward."     ║
+║                 IZAAK SANTOS                            ║
 ║                                                          ║
-║              SYSTEM STATUS: ONLINE                      ║
-║              DEVELOPER STATUS: LEARNING                 ║
-║              MISSION STATUS: IN PROGRESS                ║
+║              DEVELOPER SYSTEM ONLINE                    ║
+║                                                          ║
+║       LEARNING  •  BUILDING  •  EVOLVING                ║
+║                                                          ║
+║                STATUS: ACTIVE 🚀                         ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repositories.;See+you+in+the+next+commit+%F0%9F%9A%80" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING+MY+PROFILE;KEEP+LEARNING+%7C+KEEP+BUILDING+%7C+KEEP+EVOLVING;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%9A%80" alt="Footer Animation"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0A0F2C,100:050816&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,40:8B5CF6,100:00E5FF" width="100%"/>
 
 </div>
