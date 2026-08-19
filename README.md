@@ -2,9 +2,9 @@
 
 # 🤖 S Y S T E M ・ O N L I N E
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+IZAAK%27S+GITHUB;LOADING+WEB+DEVELOPMENT+MODULES;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=FF6B00&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+IZAAK+GITHUB;LOADING+WEB+DEVELOPMENT+MODULES;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing Animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:2563EB,100:00E5FF&text=DEVELOPER%20CORE&fontAlign=50&fontAlignY=42&fontSize=50&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:FF3D00,100:FF8A00&text=DEVELOPER%20CORE&fontAlign=50&fontAlignY=42&fontSize=50&fontColor=ffffff" width="100%"/>
 
 </div>
 
@@ -29,7 +29,7 @@ Loading modules...
 ✔ Git & GitHub Connected
 ✔ Projects Loaded
 
-STATUS: ONLINE 🚀
+STATUS: ONLINE 
 ```
 
 ---
@@ -372,21 +372,20 @@ function developerLife() {
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║                 IZAAK SANTOS                             ║
+║                        IZAAK SANTOS                      ║
 ║                                                          ║
-║              DEVELOPER SYSTEM ONLINE                     ║
+║                  DEVELOPER SYSTEM ONLINE                 ║
 ║                                                          ║
-║       LEARNING  •  BUILDING  •  EVOLVING                 ║
+║            LEARNING  •  BUILDING  •  EVOLVING            ║
 ║                                                          ║
-║                STATUS: ACTIVE 🚀                        ║
+║                      STATUS: ACTIVE                      ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING+MY+PROFILE;KEEP+LEARNING+%7C+KEEP+BUILDING+%7C+KEEP+EVOLVING;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%9A%80" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=3500&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=SYSTEM+OPERATIONAL;KEEP+LEARNING+%7C+KEEP+BUILDING+%7C+KEEP+EVOLVING;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%9A%80" alt="System Status"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,40:2563EB,100:00E5FF" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,40:FF3D00,100:FF8A00" width="100%"/>
 </div>
