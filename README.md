@@ -199,19 +199,27 @@ Projeto de desenvolvimento web que apresenta uma vitrine virtual de produtos, co
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=IzaakCod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=IzaakCod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaakCod&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs?username=IzaakCod&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+---
+
+## 📈 Gráfico de Contribuição
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IzaakCod&theme=tokyo-night&hide_border=true)](https://github.com/IzaakCod)
+<a href="https://github.com/IzaakCod">
+  <img src="https://img.shields.io/badge/VER%20MINHAS%20CONTRIBUIÇÕES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver contribuições no GitHub"/>
+</a>
+
+<br><br>
+
+**Acompanhe minha evolução, meus commits e minhas contribuições diretamente no GitHub!**
 
 </div>
 
