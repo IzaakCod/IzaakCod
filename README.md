@@ -97,7 +97,7 @@ Aqui estão alguns dos projetos que desenvolvi durante minha jornada de aprendiz
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IzaakCod/IzaakCod/main/fitlife.png" width="100%" alt="Projeto FitLife"/>
+<img src="https://raw.githubusercontent.com/IzaakCod/IzaakCod/main/fitlife.png.png" width="100%" alt="FitLife">
 
 </div>
 
@@ -130,7 +130,7 @@ Projeto acadêmico de desenvolvimento web voltado ao universo fitness, com pági
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IzaakCod/IzaakCod/main/controlagastos.png" width="65%" alt="Projeto ControlaGastos"/>
+<img src="https://raw.githubusercontent.com/IzaakCod/IzaakCod/main/controlagastos.png.png" width="65%" alt="ControlaGastos">
 
 </div>
 
@@ -165,7 +165,7 @@ Sistema desenvolvido em equipe para auxiliar no gerenciamento das finanças pess
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IzaakCod/IzaakCod/main/demo-vitrine.gif" width="100%" alt="Demonstração do projeto Vitrine Moda e Estilo"/>
+<img src="https://raw.githubusercontent.com/IzaakCod/IzaakCod/main/demo-vitrine.gif" width="100%" alt="Vitrine Moda e Estilo">
 
 </div>
 
